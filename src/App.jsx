@@ -21,10 +21,10 @@ const App = () => {
   return (
     <div>
       <Router>
-      <Navbar expand="lg" className="bg-body-tertiary ">
+      <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
         
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
             <img  src="src/images/untitled.png" alt="ph" style={{ height: '40px', width: '40px',marginRight:'10px' }} />
             <h2><b>ShopEase</b></h2>
