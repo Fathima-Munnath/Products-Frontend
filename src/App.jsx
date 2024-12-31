@@ -26,7 +26,7 @@ const App = () => {
         
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
-            <img  src="public/images/untitled.png" alt="ph" style={{ height: '40px', width: '40px',marginRight:'10px' }} />
+            <img  src="Untitled.png" alt="ph" style={{ height: '40px', width: '40px',marginRight:'10px' }} />
             <h2><b>ShopEase</b></h2>
           <Nav className="ms-auto">
             <Link  className="nav-link" to ="/">Home</Link>
